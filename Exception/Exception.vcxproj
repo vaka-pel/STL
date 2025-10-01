@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{316c70c4-199b-43fe-ac88-80812ee8f1cb}</ProjectGuid>
-    <RootNamespace>SequenceContainers</RootNamespace>
+    <ProjectGuid>{7425d31d-fb65-4117-a0e3-668f540832f7}</ProjectGuid>
+    <RootNamespace>Exception</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
